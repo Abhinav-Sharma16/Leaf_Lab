@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69584731624",
+    "project_id": "leaf-lab-7a828",
+    "storage_bucket": "leaf-lab-7a828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69584731624:android:be1aa5ef8c16cea8dfb85d",
+        "android_client_info": {
+          "package_name": "com.Abhinav.leaf_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeVUZTg9EsR_oJcoNiCtq1Ze9KUs9Twc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

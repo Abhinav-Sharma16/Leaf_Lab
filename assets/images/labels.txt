@@ -1,0 +1,18 @@
+0 Juniper
+1 Wheat
+2 Garlic
+3 Hyope
+4 Asparagus
+5 Bitter Iberis
+6 Yarrow
+7 Fennel
+8 Lovage
+9 Ginseng
+10 White jasmine
+11 Carrot
+12 Lily of the valley
+13 Mullein
+14 Pineapple
+15 Argan
+16 Fenugreek
+17 Bean
